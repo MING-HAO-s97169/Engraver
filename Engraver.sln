@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{C72AF8BA-AD2C-4E41-7B0B-052A0F644354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOTween.Modules", "DOTween.Modules.csproj", "{966816F4-A753-33F6-88A6-FB852FC80BC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C72AF8BA-AD2C-4E41-7B0B-052A0F644354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72AF8BA-AD2C-4E41-7B0B-052A0F644354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72AF8BA-AD2C-4E41-7B0B-052A0F644354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72AF8BA-AD2C-4E41-7B0B-052A0F644354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{966816F4-A753-33F6-88A6-FB852FC80BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966816F4-A753-33F6-88A6-FB852FC80BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966816F4-A753-33F6-88A6-FB852FC80BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966816F4-A753-33F6-88A6-FB852FC80BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
